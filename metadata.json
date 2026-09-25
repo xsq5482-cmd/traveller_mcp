@@ -1,0 +1,9 @@
+{
+  "name": "Singapore AI Transit Strategist",
+  "description": "Expert AI Travel Assistant and Mobility Strategist for Singapore powered by the official siva-sub/MCP-Public-Transport Model Context Protocol server. Real-time multi-modal journey planning, live bus arrivals, crowding levels, MRT alerts, and weather-aware routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
